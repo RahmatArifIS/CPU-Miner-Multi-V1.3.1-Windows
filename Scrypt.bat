@@ -1,0 +1,1 @@
+cpuminer-gw64-core2 -a scrypt -o stratum+tcp://scrypt.eobot.com:4444 --userpass eobot.995390:x

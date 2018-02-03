@@ -1,0 +1,1 @@
+cpuminer-gw64-core2 -a x11 -o stratum+tcp://x11.eobot.com:5555 --userpass eobot.995390:x
